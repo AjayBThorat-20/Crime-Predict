@@ -1,0 +1,18 @@
+.read-post{width: 25%;
+max-width: 42%;
+height: 100%;
+text-align: center;
+margin-left: 38.5%;
+margin-right: 38.5%;
+padding: 0px;
+}
+
+.obj-display{
+    display:none;
+}
+
+
+.textAlign-item{
+    text-align: center;
+    justify-content: center;
+}

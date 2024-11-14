@@ -1,0 +1,19 @@
+.CrimeData{
+    margin-top:5px;
+}
+
+
+.AbtCrimeImg{
+    height: 50%;
+    width: 30%;
+}
+
+
+.AnCrimeImg{
+    height: 90%;
+    width: 80%;
+}
+
+.obj-display{
+    display:none;
+}

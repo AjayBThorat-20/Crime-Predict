@@ -1,0 +1,15 @@
+/* style={{backgroundColor:'#7f7c7c', color:"white", bottom:"0px", textAlign: 'center'}} */
+.footer-main{
+    background-color: #7f7c7c;
+    color: white;
+    bottom: 0px;
+    text-align: 'center';
+}
+
+.footer-center{
+    text-align: center;
+}
+
+.footer-table{
+    width: 653px;
+}

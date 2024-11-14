@@ -1,0 +1,34 @@
+/* style={{ width: '20rem', height:'15rem', marginTop: '20px', hovered: true, background:'PaleGoldenRod' }} */
+
+
+.card-item{
+    width: 20rem;
+    height:15rem;
+    margin-top: 20px;
+    background-color:  #eee8aa;
+}
+
+
+.card-container{
+    display: inline-block;
+}
+
+.main-containt-data{
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+}
+
+.card-title{
+    text-align: center;
+    font-style: bold;
+
+}
+
+.card-text2{
+    text-align: center;
+}
+
+.card-url{
+    text-align: center;
+}

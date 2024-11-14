@@ -1,0 +1,23 @@
+.data-center{
+    text-align: center;
+}
+
+.btn-tool{
+    /* style={{marginLeft:'auto',marginRight:'auto'}} */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.msg-data{
+  
+     margin-left: auto;
+     margin-right: auto;
+     width: 150px;
+     white-space: nowrap;
+     overflow: hidden;
+     text-overflow: ellipsis;
+}
+
+.obj-display{
+    display: none;
+}

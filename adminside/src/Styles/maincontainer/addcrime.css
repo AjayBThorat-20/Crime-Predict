@@ -1,0 +1,24 @@
+/* style={{marginLeft:"20%"}} */
+
+
+.row-title{
+    margin-left: 20%;
+}
+
+.obj-display{
+    display:none;
+}
+.data-text{
+    text-align: center;
+}
+
+
+.option-btn{
+    display:flex;
+    margin-left: 100px;
+}
+
+.main-table{
+    margin-left: 25%;
+    margin-right:25%;
+}

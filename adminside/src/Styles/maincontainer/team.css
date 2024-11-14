@@ -1,0 +1,40 @@
+.team-item {
+    float: left;
+    margin-right:6px;
+    margin-left: 6px;
+}
+.team-card{
+    width: 20rem; 
+    height: 30rem;
+    margin-top: 20px;
+    background-color:'#E6E6FA';
+    /* border: 0px solid black; */
+ 
+}
+
+.container-block{
+    display: inline-block;
+}
+
+.obj-display{
+    display: none;
+}
+
+.data-align{
+    text-align: center;
+}
+
+.card-txt-team{
+    text-align: center;
+    width: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.main-containt{
+    margin-left: 5%;
+    margin-top: 10px;
+    text-align: center;
+    /* display: block; */
+}
